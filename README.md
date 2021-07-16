@@ -1,2 +1,2 @@
-# sidereal-3d-false
-game engine inspired in doom source code
+# Sidereal 3D False
+Game engine inspired in doom source code
